@@ -1,0 +1,15 @@
+C:\Users\Toua\source\repos\Calendar\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Toua\source\repos\Calendar\Calendar\bin\Debug\Calendar.exe
+C:\Users\Toua\source\repos\Calendar\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.exe
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.UserControlDays.resources
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.UserControlBlank.resources
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.notesForm.resources
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.eventsForm.resources
+C:\Users\Toua\source\repos\Calendar\Calendar\obj\Debug\Calendar.tasksForm.resources

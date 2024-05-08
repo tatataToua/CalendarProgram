@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toua\\source\\repos\\Calendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|c:\\users\\toua\\source\\repos\\calendar\\calendar\\eventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\eventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\eventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\eventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\tasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\tasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\tasksform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\tasksform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\tasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\tasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\event.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\event.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\notesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\notesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\notesform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\notesform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|C:\\Users\\Toua\\source\\repos\\Calendar\\calendar\\usercontrolblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69C525F5-5C8C-4A67-BA82-6309C516D28A}|Calendar\\Calendar.csproj|solutionrelative:calendar\\usercontrolblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Form1.cs",
+              "RelativeDocumentMoniker": "Calendar\\Form1.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Form1.cs",
+              "RelativeToolTip": "Calendar\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAALoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:09:41.661Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Program.cs",
+              "RelativeDocumentMoniker": "Calendar\\Program.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Program.cs",
+              "RelativeToolTip": "Calendar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:07:02.818Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notes.txt",
+              "RelativeDocumentMoniker": "Calendar\\notes.txt",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notes.txt",
+              "RelativeToolTip": "Calendar\\notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-07T17:30:39.783Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eventsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\eventsForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\eventsForm.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\eventsForm.cs",
+              "RelativeToolTip": "Calendar\\eventsForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:32.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eventsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\eventsForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\eventsForm.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\eventsForm.cs [Design]",
+              "RelativeToolTip": "Calendar\\eventsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:22.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Task.cs",
+              "RelativeDocumentMoniker": "Calendar\\Task.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Task.cs",
+              "RelativeToolTip": "Calendar\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:33:06.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "notesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\notesForm.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.cs",
+              "RelativeToolTip": "Calendar\\notesForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:57:21.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Event.cs",
+              "RelativeDocumentMoniker": "Calendar\\Event.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Event.cs",
+              "RelativeToolTip": "Calendar\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:31:31.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tasksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\tasksForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\tasksForm.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\tasksForm.cs [Design]",
+              "RelativeToolTip": "Calendar\\tasksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:06:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tasksForm.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\tasksForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\tasksForm.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\tasksForm.cs",
+              "RelativeToolTip": "Calendar\\tasksForm.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:29:40.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tasksForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\tasksForm.Designer.cs",
+              "RelativeDocumentMoniker": "Calendar\\tasksForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\tasksForm.Designer.cs",
+              "RelativeToolTip": "Calendar\\tasksForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:33:01.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "event.txt",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\event.txt",
+              "RelativeDocumentMoniker": "Calendar\\event.txt",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\event.txt",
+              "RelativeToolTip": "Calendar\\event.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T17:28:42.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "notesForm.resx",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.resx",
+              "RelativeDocumentMoniker": "Calendar\\notesForm.resx",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.resx",
+              "RelativeToolTip": "Calendar\\notesForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-08T02:56:50.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "notesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Calendar\\notesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.Designer.cs",
+              "RelativeToolTip": "Calendar\\notesForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:56:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "notesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\notesForm.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\notesForm.cs [Design]",
+              "RelativeToolTip": "Calendar\\notesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:56:38.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "task.txt",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\task.txt",
+              "RelativeDocumentMoniker": "Calendar\\task.txt",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\task.txt",
+              "RelativeToolTip": "Calendar\\task.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T00:30:41.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Notes.cs",
+              "RelativeDocumentMoniker": "Calendar\\Notes.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Notes.cs",
+              "RelativeToolTip": "Calendar\\Notes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:29:06.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Form1.cs",
+              "RelativeDocumentMoniker": "Calendar\\Form1.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Form1.cs [Design]",
+              "RelativeToolTip": "Calendar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:19:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserControlDays.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs",
+              "RelativeDocumentMoniker": "Calendar\\UserControlDays.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs",
+              "RelativeToolTip": "Calendar\\UserControlDays.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:08:35.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calendar\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\Form1.Designer.cs",
+              "RelativeToolTip": "Calendar\\Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:08:27.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControlDays.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs",
+              "RelativeDocumentMoniker": "Calendar\\UserControlDays.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs [Design]",
+              "RelativeToolTip": "Calendar\\UserControlDays.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:11:31.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserControlBlank.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\UserControlBlank.cs",
+              "RelativeDocumentMoniker": "Calendar\\UserControlBlank.cs",
+              "ToolTip": "C:\\Users\\Toua\\source\\repos\\Calendar\\Calendar\\UserControlBlank.cs [Design]",
+              "RelativeToolTip": "Calendar\\UserControlBlank.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:38:15.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
